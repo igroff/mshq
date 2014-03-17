@@ -1,0 +1,2 @@
+export PORT=3000
+autodeploy https://github.com/igroff/skyapi.git
