@@ -1,0 +1,2 @@
+export LOG_DIR=/mnt/data
+autodeploy https://github.com/igroff/logar.git
