@@ -1,2 +1,3 @@
-export FORK_OUTPUT=/dev/shm/
-autodeploy https://github.com/igroff/forkulator.git
+export COMMAND_OUTPUT_DIR=/var/data/forkulator_output
+export COMMAND_PATH=/var/data/forkulator_commands
+autodeploy https://github.com/igroff/forkulator.git#canary
