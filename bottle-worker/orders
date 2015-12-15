@@ -1,0 +1,2 @@
+BUILDPACK_URL=https://github.com/wballard/makefile-buildpack.git
+autodeploy https://github.com/igroff/bottle#starphleet
