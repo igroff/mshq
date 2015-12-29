@@ -1,0 +1,2 @@
+export AWS_REGION=us-east-1
+autodeploy https://github.com/igroff/bottle-api.git
